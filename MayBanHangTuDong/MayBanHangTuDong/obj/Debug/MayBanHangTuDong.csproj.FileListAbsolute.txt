@@ -1,0 +1,43 @@
+C:\Users\Hoang Yen\MBHTD\MayBanHangTuDong\MayBanHangTuDong\bin\Debug\MayBanHangTuDong.exe.config
+C:\Users\Hoang Yen\MBHTD\MayBanHangTuDong\MayBanHangTuDong\bin\Debug\MayBanHangTuDong.exe
+C:\Users\Hoang Yen\MBHTD\MayBanHangTuDong\MayBanHangTuDong\bin\Debug\MayBanHangTuDong.pdb
+C:\Users\Hoang Yen\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.csproj.AssemblyReference.cache
+C:\Users\Hoang Yen\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.Properties.Resources.resources
+C:\Users\Hoang Yen\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.csproj.GenerateResource.cache
+C:\Users\Hoang Yen\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Yen\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.exe
+C:\Users\Hoang Yen\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.pdb
+C:\Users\Hoang Yen\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.Maybanhang.resources
+C:\Users\Hoang Yen\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.Form2.resources
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\bin\Debug\MayBanHangTuDong.exe
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\bin\Debug\MayBanHangTuDong.exe.config
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.Maybanhang.resources
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.Form2.resources
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.Properties.Resources.resources
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.exe
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.pdb
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\bin\Debug\MayBanHangTuDong.pdb
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.thongBaoNhanTien.resources
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.ThongBaoGDKTC.resources
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.ThongBaoKetQua.resources
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.TaiKhoan.resources
+C:\Users\DELL\source\repos\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.QuanLy.resources
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\bin\Debug\MayBanHangTuDong.exe.config
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\bin\Debug\MayBanHangTuDong.exe
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\bin\Debug\MayBanHangTuDong.pdb
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.csproj.AssemblyReference.cache
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.TaiKhoan.resources
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.ThongBaoKetQua.resources
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.thongBaoNhanTien.resources
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.Maybanhang.resources
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.Form2.resources
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.ThongBaoGDKTC.resources
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.Properties.Resources.resources
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.QuanLy.resources
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.csproj.GenerateResource.cache
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.csproj.CoreCompileInputs.cache
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.exe
+C:\MBHTD\MayBanHangTuDong\MayBanHangTuDong\obj\Debug\MayBanHangTuDong.pdb

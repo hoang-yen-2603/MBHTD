@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="windowTitle">
+   <string>MONEY DETECTION</string>
+  </property>
+  <property name="windowState">
+   <set>Qt::WindowMaximized</set>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+
+   <!-- Camera -->
+   <widget class="QLabel" name="disp_main">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>50</y>
+      <width>1500</width>
+      <height>900</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string>background-color: black;</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+
+   <!-- Trang thai -->
+   <widget class="QLabel" name="lbWebcam">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>500</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>STATUS: STOPPED</string>
+    </property>
+    <property name="styleSheet">
+     <string>color: red; font-weight: bold;</string>
+    </property>
+   </widget>
+
+   <!-- Hoat dong -->
+   <widget class="QGroupBox" name="settingsGroup">
+    <property name="geometry">
+     <rect>
+      <x>1550</x>
+      <y>250</y>
+      <width>350</width>
+      <height>120</height>
+     </rect>
+    </property>
+
+    <!-- Start/Stop -->
+    <widget class="QPushButton" name="btn_start">
+     <property name="geometry">
+      <rect>
+       <x>50</x>
+       <y>40</y>
+       <width>100</width>
+       <height>40</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>START</string>
+     </property>
+     <property name="styleSheet">
+      <string>background-color: green; color: white; font-weight: bold; font-size: 24px;</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btn_stop">
+     <property name="geometry">
+      <rect>
+       <x>200</x>
+       <y>40</y>
+       <width>100</width>
+       <height>40</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>STOP</string>
+     </property>
+     <property name="styleSheet">
+      <string>background-color: red; color: white; font-weight: bold; font-size: 24px;</string>
+     </property>
+    </widget>
+   </widget>
+
+  </widget>
+  <resources/>
+  <connections/>
+ </widget>
+</ui>
+
+
+
